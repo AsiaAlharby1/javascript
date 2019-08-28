@@ -1,0 +1,4 @@
+//  print text on two line and print varible in some command print
+var num=10 +'\n';
+document.write("Hello, this is my first challenge and I will do it"+ num + "\ itmes/nI will do it, \n);
+document.write("I will learn JavaScript");
