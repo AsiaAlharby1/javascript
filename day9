@@ -1,0 +1,10 @@
+
+// types & numbers
+
+document.write(Math.pow(2,2));
+
+document.write(Math.round(1.5));
+
+document.write(Math.random(1.5));
+
+document.write(Math.exp(1));
